@@ -1,0 +1,12 @@
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\bin\Debug\DBFİrst-FaturaIslemleri.exe.config
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\bin\Debug\DBFİrst-FaturaIslemleri.exe
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\bin\Debug\DBFİrst-FaturaIslemleri.pdb
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst-FaturaIslemleri.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Form1.resources
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Form2.resources
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFirst_FaturaIslemleri.Form3.resources
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst_FaturaIslemleri.Properties.Resources.resources
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst-FaturaIslemleri.csproj.GenerateResource.cache
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst-FaturaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst-FaturaIslemleri.exe
+C:\Users\Wissen\source\repos\NT-DBFirst2.1\DBFİrst-FaturaIslemleri\obj\Debug\DBFİrst-FaturaIslemleri.pdb
